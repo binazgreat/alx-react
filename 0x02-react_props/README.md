@@ -11,3 +11,6 @@
 ## Resources
 -  [Getting started with React](https://www.taniarascia.com/getting-started-with-react/)
 -  [React Official Website](https://reactjs.org/)
+
+## Author
+-  [Biniya Asfaw] - [github.com/binazgreat]
